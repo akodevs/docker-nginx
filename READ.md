@@ -7,5 +7,5 @@
 -	docker-compose up
 -	docker-compose scale app=4
 
-# Go to bash ( I think)
+# Go to bash
 - docker-compose exec dockerservice sh
